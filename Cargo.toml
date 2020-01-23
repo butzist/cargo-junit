@@ -8,7 +8,7 @@ repository = "https://github.com/CWood1/cargo-junit"
 description = "Converts cargo test output into a junit report. Hard forked from cargo-test-junit, after it went unmaintained with critical bugs."
 
 [dependencies]
-cargo-results = "0.6.0"
+cargo-results = "0.6.2"
 nom = "3.2.1"
 duct = "0.11.1"
 sxd-document = "0.2.0"
